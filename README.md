@@ -1,5 +1,11 @@
 # Real Estate MERN Stack Project
 
+![image](https://github.com/user-attachments/assets/5e941456-afe2-40c3-a55f-7b4783825aea)
+
+![image](https://github.com/user-attachments/assets/613eeca8-3425-42ff-be23-e8e3e7e70257)
+
+
+
 A modern, full-featured real estate management system built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
 ## 🚀 Features
